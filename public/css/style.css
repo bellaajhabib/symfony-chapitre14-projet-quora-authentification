@@ -388,6 +388,8 @@ footer {
 
 .question-content {
     border-bottom: 1px solid var(--gray-light);
+    max-width: 800px;
+    word-wrap: break-word;
 }
 
 .rating-up {
